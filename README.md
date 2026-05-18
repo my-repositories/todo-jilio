@@ -37,6 +37,10 @@ Meme-based javascript development. Vse po-russki, vse svoi. Zahodi, bratishka.
 
 ---
 
+![https://raw.githubusercontent.com/my-repositories/todo-jilio/refs/heads/asset/Pasted%20image%2020260410163829.png](https://raw.githubusercontent.com/my-repositories/todo-jilio/refs/heads/asset/Pasted%20image%2020260410163829.png)
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
