@@ -1,5 +1,12 @@
 # vibe
 
+## 🚀 Run 
+
+```sh
+# https://huggingface.co/settings/tokens/new?tokenType=read
+HF_TOKEN="твой_токен" uv run src/layout.py
+```
+
 ## 🔧 Development & Quality Control
 To maintain a 10/10 score and pass strict static analysis:
 
